@@ -2,7 +2,7 @@
 
 A modern cryptocurrency payment application built with React Native and Expo, designed for the Bolivian market. Warupay enables users to manage digital assets, make payments with Stellar (XLM) and other cryptocurrencies, and find places that accept crypto payments.
 
-![Warupay Banner](https://via.placeholder.com/800x200/7D00FF/FFFFFF?text=Warupay+-+Crypto+Payments+Made+Easy)
+![warupay](https://github.com/user-attachments/assets/902dbda9-9e9e-4754-9a89-083626984dac)
 
 ## 🚀 Features
 
@@ -116,7 +116,7 @@ warupay/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/warupay.git
+git clone https://github.com/Oliver369X/warupay.git
 cd warupay
 ```
 
@@ -285,7 +285,7 @@ We welcome contributions to Warupay! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 
 ## 🙏 Acknowledgments
